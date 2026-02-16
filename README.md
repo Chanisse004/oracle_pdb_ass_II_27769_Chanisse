@@ -117,6 +117,3 @@ All commands were executed, verified, and tested personally.
 I understand that precision, discipline, and integrity are essential qualities in database administration and commit to maintaining professional and ethical standards in all technical work.
 
 
-
-```sql
-SELECT PDB_NAME, OPEN_MODE FROM V$PDBS;
